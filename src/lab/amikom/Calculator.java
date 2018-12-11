@@ -12,7 +12,7 @@ public class Calculator {
 		System.out.println("hasil penjumlahan = "+add);
 		
 		int sup = a*b;
-		System.out.println("hasil perkalian = "+sup);
+		System.out.println("hasil perkalian as= "+sup);
 		
 		
 		int sub = a - b;
