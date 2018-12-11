@@ -11,6 +11,9 @@ public class Calculator {
 		int add = a+b;
 		System.out.println("hasil penjumlahan = "+add);
 		
+		int sup = a*b;
+		System.out.println("hasil perkalian = "+sup);
+		
 		
 		int sub = a - b;
 		System.out.println("hasil pengurangan = "+sub);
