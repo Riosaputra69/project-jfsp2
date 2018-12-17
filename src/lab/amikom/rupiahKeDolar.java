@@ -11,6 +11,7 @@ public class rupiahKeDolar {
         System.out.print("Masukkan Rupiah = ");
         rupiah = masukkan.nextFloat();
         dolar = (float) (rupiah*0.00014);
+        //coba
         
         System.out.println();
         System.out.println("Hasil Kurs = ");
