@@ -8,7 +8,7 @@ public class rupiahKeDolar {
 
 		Scanner masukkan = new Scanner(System.in);
         float rupiah, dolar;
-        System.out.print("Masukkan Rupiah terdikit = ");
+        System.out.print("Masukkan Rupiah terbanyak = ");
         rupiah = masukkan.nextFloat();
         dolar = (float) (rupiah*0.00014);
         
